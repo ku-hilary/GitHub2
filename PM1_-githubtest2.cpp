@@ -7,7 +7,7 @@ int main()
 {
     std::cout << "Hello Vistual Studio Git!\n";
     
-    std::cout << "Hello New Branch\n";
+    std::cout << "Pull Request branch changed\n";
 }
 
 // Run program: Ctrl + F5 or Debug > Start Without Debugging menu
